@@ -1,0 +1,5 @@
+project: nearcore
+target: serde
+
+cmds:
+  - cmd: /serde

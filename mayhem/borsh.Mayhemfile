@@ -1,0 +1,5 @@
+project: nearcore
+target: borsh
+
+cmds:
+  - cmd: /borsh
